@@ -24,7 +24,7 @@ en ataques de phishing (por ejemplo, la "а" cirílica en vez de la "a").
 
 ```
 
-python detector\_homoglifos.py
+python detector_homoglifos.py
 
 ```
 
